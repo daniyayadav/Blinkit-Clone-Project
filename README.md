@@ -46,9 +46,6 @@ blinkit-clone/
 ## ▶️ How to Run the Project
 
 1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/blinkit-clone.git
-   ```
 
 2. Open the folder in **VS Code**
 
